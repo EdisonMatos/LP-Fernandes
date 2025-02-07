@@ -18,10 +18,10 @@ export default function Index() {
       <Navbar LightMode={false} />
       <Hero />
       <Features
-        defaultFeature={true}
+        defaultFeature={false}
         button={false}
         modalWithCards={false}
-        paragraphs={false}
+        paragraphs={true}
         sixCards={false}
       />
 
@@ -40,7 +40,6 @@ export default function Index() {
         addres={true}
         instagram={true}
         facebook={true}
-
         linkedin={false}
         x={false}
         obs={false}

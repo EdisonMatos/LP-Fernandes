@@ -158,7 +158,8 @@ const content = {
       card1: {
         img: featuresImg1,
         title: "Penal - Processos Criminais",
-        subtitle: "Defesa em ações penais, recursos e revisões criminais.",
+        subtitle:
+          "Defesa em ações penais, recursos e revisões criminais. Atuamos na proteção dos direitos dos acusados em todas as fases do processo, desde a investigação até a fase recursal, garantindo uma defesa técnica e estratégica.",
         description: (
           <div>
             A_Definir
@@ -194,7 +195,8 @@ const content = {
       card2: {
         img: featuresImg2,
         title: "Penal - Atuação em Flagrantes e Prisões",
-        subtitle: "Defesa em flagrantes, pedidos de liberdade e recursos.",
+        subtitle:
+          "Defesa em flagrantes, pedidos de liberdade e recursos. Em casos de prisão em flagrante, buscamos medidas para resguardar os direitos do cliente, incluindo habeas corpus e pedidos de liberdade provisória, sempre visando um desfecho justo.",
         description: (
           <div>
             A_Definir
@@ -233,7 +235,8 @@ const content = {
       card3: {
         img: featuresImg3,
         title: "Benefícios Previdenciários",
-        subtitle: "Concessão e revisão de aposentadorias e auxílios.",
+        subtitle:
+          "Concessão e revisão de aposentadorias e auxílios. Auxiliamos no planejamento previdenciário, análise de tempo de contribuição e na busca pelos direitos do segurado junto ao INSS, incluindo aposentadorias, auxílios e benefícios por incapacidade.",
         description: (
           <div>
             A_Definir <br />
@@ -268,7 +271,8 @@ const content = {
       card4: {
         img: featuresImg4,
         title: "Contencioso Administrativo Previdenciário",
-        subtitle: "Recursos contra negativas do INSS e ações judiciais.",
+        subtitle:
+          "Recursos contra negativas do INSS e ações judiciais. Quando o INSS nega um benefício indevidamente, atuamos na revisão e na contestação da decisão, tanto na via administrativa quanto judicial, garantindo que o segurado tenha seus direitos respeitados.",
         description: (
           <div>
             A_Definir
@@ -450,8 +454,7 @@ const content = {
           imgPrint: aboutSocialImg,
           alt: `Foto do Instagram do ${infos.name}`,
         },
-        miniTag: (
-          <p className="text-white">REDES SOCIAIS</p>),
+        miniTag: <p className="text-white">REDES SOCIAIS</p>,
         title: "Acompanhe muitas novidades e atualizações!",
         subtitle:
           "⚖️ Fique por dentro do universo jurídico seguindo nossos perfis nas redes sociais!",
@@ -477,37 +480,32 @@ const content = {
       ctaButtonText: "Entre em contato pelo WhatsApp",
     },
     steps: {
-      miniTag: (
-        <p className="text-white">PASSO A PASSO</p>),
+      miniTag: <p className="text-white">PASSO A PASSO</p>,
       title: "Como funciona nosso atendimento?",
       subtitle: "",
       img: imgSteps,
       alt: "",
       cards: {
         card1: {
-          stepNumber: (
-            <p className="text-white">1</p>),
+          stepNumber: <p className="text-white">1</p>,
           cardTitle: "Consulta inicial",
           cardDescription:
             "Realizamos uma reunião para entender seu caso e identificar suas necessidades jurídicas.",
         },
         card2: {
-          stepNumber:(
-            <p className="text-white">2</p>),
+          stepNumber: <p className="text-white">2</p>,
           cardTitle: "Análise detalhada",
           cardDescription:
             "Examinamos todos os aspectos do seu caso, revisando documentos e evidências para obter uma visão completa.",
         },
         card3: {
-          stepNumber:(
-            <p className="text-white">3</p>),
+          stepNumber: <p className="text-white">3</p>,
           cardTitle: "Elaboração da estratégia",
           cardDescription:
             "Criamos uma estratégia jurídica personalizada para proteger seus interesses de maneira eficaz.",
         },
         card4: {
-          stepNumber: (
-            <p className="text-white">4</p>),
+          stepNumber: <p className="text-white">4</p>,
           cardTitle: "Ação legal",
           cardDescription:
             "Iniciamos e conduzimos as ações judiciais necessárias, buscando a justiça e a solução de que você precisa.",

@@ -159,7 +159,7 @@ const content = {
         img: featuresImg1,
         title: "Penal - Processos Criminais",
         subtitle:
-          "Defesa em ações penais, recursos e revisões criminais. Atuamos na proteção dos direitos dos acusados em todas as fases do processo, desde a investigação até a fase recursal, garantindo uma defesa técnica e estratégica.",
+          "Defesa em ações penais, recursos e revisões criminais, garantindo a proteção dos direitos dos acusados em todas as fases do processo.",
         description: (
           <div>
             A_Definir
@@ -196,7 +196,7 @@ const content = {
         img: featuresImg2,
         title: "Penal - Atuação em Flagrantes e Prisões",
         subtitle:
-          "Defesa em flagrantes, pedidos de liberdade e recursos. Em casos de prisão em flagrante, buscamos medidas para resguardar os direitos do cliente, incluindo habeas corpus e pedidos de liberdade provisória, sempre visando um desfecho justo.",
+          "Defesa em casos de prisão em flagrante, incluindo habeas corpus e pedidos de liberdade provisória, visando um desfecho justo.",
         description: (
           <div>
             A_Definir
@@ -236,7 +236,7 @@ const content = {
         img: featuresImg3,
         title: "Benefícios Previdenciários",
         subtitle:
-          "Concessão e revisão de aposentadorias e auxílios. Auxiliamos no planejamento previdenciário, análise de tempo de contribuição e na busca pelos direitos do segurado junto ao INSS, incluindo aposentadorias, auxílios e benefícios por incapacidade.",
+          "Concessão e revisão de aposentadorias, auxílios e benefícios, garantindo os direitos do segurado junto ao INSS.",
         description: (
           <div>
             A_Definir <br />
@@ -272,7 +272,7 @@ const content = {
         img: featuresImg4,
         title: "Contencioso Administrativo Previdenciário",
         subtitle:
-          "Recursos contra negativas do INSS e ações judiciais. Quando o INSS nega um benefício indevidamente, atuamos na revisão e na contestação da decisão, tanto na via administrativa quanto judicial, garantindo que o segurado tenha seus direitos respeitados.",
+          "Contestação de negativas do INSS, atuando na revisão de decisões administrativas e judiciais para garantir os direitos do segurado.",
         description: (
           <div>
             A_Definir

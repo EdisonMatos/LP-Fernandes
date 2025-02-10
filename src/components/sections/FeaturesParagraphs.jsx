@@ -13,11 +13,9 @@ import SectionShapeDiv from "../sectionElements/SectionShapeDiv";
 import MoreFeaturesModal from "./MoreFeaturesModal";
 import IconButtonFeatureCard from "../cards/IconButtonFeatureCard";
 import Button from "../interactives/Button";
+import Paragraphs from "../sectionElements/Paragraphs";
 
 export default function FeaturesParagraphs({ modal }) {
-
-  
-
   return (
     <div>
       <SectionArea id="service" className="squares">
@@ -279,6 +277,17 @@ export default function FeaturesParagraphs({ modal }) {
               </MotionDivDownToUp> */}
             </div>
           </div>
+          <MotionDivDownToUp className="mt-[56px]">
+            <Paragraphs className="text-center underline transition text-secondary hover:scale-110">
+              <a
+                href={content.texts.links.ctaWhatsapp}
+                target="_blank"
+                className="text-center"
+              >
+                Para mais informações, clique aqui e fale com um especialista
+              </a>
+            </Paragraphs>
+          </MotionDivDownToUp>
         </SectionWrapper>
       </SectionArea>
     </div>

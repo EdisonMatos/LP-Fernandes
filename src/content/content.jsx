@@ -102,7 +102,7 @@ const content = {
         </h1>
       ),
       subtitle:
-        "Com experiência em Direito Penal e Previdenciário, Dr. Gileno Tavares luta pelos seus direitos com dedicação e lealdade inabaláveis.",
+        "Com experiência em Direito Penal e Previdenciário, Dr. Gileno Fernandes.",
       heroImg: heroImg,
       ctaButtonText: "Entre em contato",
       obsHero: {
@@ -474,9 +474,9 @@ const content = {
       backgroundImg: ctaWhatsappImgBg,
       miniTag: "FALE CONOSCO",
       title:
-        "Enfrentando um problema jurídico? Deixe que cuidamos disso para você!",
+        "Enfrentando um problema jurídico? Tenha as informações nas redes ou consulte para informações.",
       subtitle:
-        "Converse com nossa equipe. Estamos prontos para oferecer a orientação jurídica de que você precisa.",
+        "Converse com nossa equipe para os meios informativos necessários e consultivo.",
       ctaButtonText: "Entre em contato pelo WhatsApp",
     },
     steps: {
